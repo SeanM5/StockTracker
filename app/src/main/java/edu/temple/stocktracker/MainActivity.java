@@ -44,55 +44,6 @@ public class MainActivity extends AppCompatActivity implements stockBoy, portfol
     private ScheduledExecutorService scheduleTaskExecutor;
 
 
-private Runnable runnable = new Runnable() {
-
-        @Override
-        public void run() {
-
-            for(int i=0; i<stockStringList.size(); i++){
-                try {
-                    JSONObject  stock = new JSONObject(stockStringList.get(i));
-                    String urlString = "http://dev.markitondemand.com/MODApis/Api/v2/Quote/json/?symbol="+stock.getString("Symbol");
-
-                    String queryResult = getStockData(urlString);
-
-                    if(queryResult != stockStringList.get(i)){
-                        stockStringList.set(i, queryResult);
-                    }
-
-                } catch (JSONException e){
-                    e.printStackTrace();
-                }
-            }
-            try {
-                FileOutputStream fos = openFileOutput(fileName, MODE_PRIVATE);
-                BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(fos));
-                writer.write("");
-                writer.close();
-
-                FileOutputStream fos2 = openFileOutput("stockDataList", MODE_APPEND | MODE_PRIVATE);
-                BufferedWriter writer2 = new BufferedWriter(new OutputStreamWriter(fos2));
-
-                for (int i = 0; i < stockStringList.size(); i++) {
-                    writer2.write(stockStringList.get(i));
-                }
-                writer2.close();
-
-                for (int i = 0; i < stockStringList.size(); i++) {
-                    Log.d("data !", stockStringList.get(i));
-                }
-
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-            stockStringList = readFile();
-
-            handler.postDelayed(this, 10000);
-        }
-    };
-
-
-
     final Handler stockHandler = new Handler(){
 
         public void handleMessage(Message msg) {
@@ -188,7 +139,6 @@ private Runnable runnable = new Runnable() {
 
 
 
-//        handler.postDelayed(runnable, 10000);
 
 
 
@@ -202,12 +152,7 @@ private Runnable runnable = new Runnable() {
             stockSymbolThread.interrupt();
             stockSymbolThread = null;
         }
-//        if(timerThread!=null){
-//            timerThread.interrupt();
-//            timerThread = null;
-//        }
 
-//        handler.removeCallbacks(runnable);
     }
 
     public void stockListFrag(){
