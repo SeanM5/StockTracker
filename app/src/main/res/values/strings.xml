@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">StockTracker</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add a stock</string>
+    <string name="enterStock">Enter a company\'s stock symbol</string>
+    <string name="curPrice">Current Price</string>
+    <string name="openPrice">Open Price</string>
+    <string name="exists">Stock is already added</string>
+    <string name="noMatch">No symbol matches</string>
+    <string name="newUser">Add a stock by hitting the button in the corner</string>
+    <string name="remove">Remove</string>
+
+
+</resources>

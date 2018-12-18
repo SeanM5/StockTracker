@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".stockDetails"
+    android:weightSum="10">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="10"
+        >
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textSize="16dp"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="10"
+            />
+
+    </TableRow>
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:weightSum="10"
+            >
+
+        <TextView
+            android:id="@+id/curPriceLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/curPrice"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="5"
+            />
+
+        <TextView
+            android:id="@+id/curPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textSize="16dp"
+            android:layout_alignParentRight="true"
+            android:textStyle="bold|italic"
+            android:gravity="right|center_vertical"
+            android:layout_weight="5"
+
+            />
+
+        </TableRow>
+
+
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="10">
+
+
+        <TextView
+            android:id="@+id/openPriceLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/openPrice"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="5"
+
+            />
+
+
+
+        <TextView
+            android:id="@+id/openPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textSize="16dp"
+            android:layout_alignParentRight="true"
+            android:gravity="right|center_vertical"
+            android:layout_weight="5"
+
+            />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="10">
+
+        <Button
+            android:id="@+id/remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="@string/remove"
+            android:layout_weight="2"
+            />
+
+
+    </TableRow>
+
+
+    <WebView
+        android:id="@+id/chart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom|center"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="4"
+    />
+
+</TableLayout>

@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\220d6b9e6a3a8ed11e237b00710cd61a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4fbc56403bb25deb0990ea060b53377b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a771087b8c58506f3b4a56fd3da1db3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\47d127cf206b70724ef1884c198e9aee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8c808e566881fc33707db7710f29a22a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\09aa474ff1334c9aed74d9032cfb061f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f759322f3632fe77e98fbd8227ad3ae7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a5059616d992f92cf39c9cee38755d0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\124a12f99d383d98ee2c6f62174d7b06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\10d0d69bfceee8c3cd26b45fca205d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9b1899dc4efe3665764d257634c6e278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6b989618025663fb1b68ac5828da9d68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cd24534fb7e47b4cb1d79a4a5da26183\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\22f569cdc3c2acfeb5657337469ee8ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\290cc6f61f872fdfbbbca7def6cc7bc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\837667ff3cfde3bebadcff6d131ed7a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8aa486e388cd9a64c2605fe4cb542713\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ed40e8e04452d25fc01ed896046c80b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7074ea773951ba0b28f9ea08f8fc261d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\342c2fc52b0026d1933acf5aaf46842d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e157f0b58171ec0c093376e422ede8f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dd822c62a26c3dba69ab8bb631b3c12e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\32f3414c2fe9ca2b888ec7bbfd1e3127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5e84f9a3e003774833a2d2c2771ca9dd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\258057afb762ce94f011123848b67933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\04bd807fad642039753970428716edfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7ae7b766158ab8e729e58144881f8461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\930e57b1ee7889280913dc2883ef922b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b70680a6b3212b5b6e9f6a79b8846374\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\09d38e5f7dcb76e7647fbacc5f17f0a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1aae1491fe875dc399a345c72410bc65\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\80a68022c4c5da23d7e08fc6fa2b466e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3ebdbb898da9ede019797f7404a80c1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\220d6b9e6a3a8ed11e237b00710cd61a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\220d6b9e6a3a8ed11e237b00710cd61a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a771087b8c58506f3b4a56fd3da1db3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a771087b8c58506f3b4a56fd3da1db3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e157f0b58171ec0c093376e422ede8f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e157f0b58171ec0c093376e422ede8f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dd822c62a26c3dba69ab8bb631b3c12e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dd822c62a26c3dba69ab8bb631b3c12e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e157f0b58171ec0c093376e422ede8f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#edu.temple.stocktracker.MainActivity
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\220d6b9e6a3a8ed11e237b00710cd61a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\220d6b9e6a3a8ed11e237b00710cd61a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4fbc56403bb25deb0990ea060b53377b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4fbc56403bb25deb0990ea060b53377b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a771087b8c58506f3b4a56fd3da1db3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a771087b8c58506f3b4a56fd3da1db3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\47d127cf206b70724ef1884c198e9aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\47d127cf206b70724ef1884c198e9aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8c808e566881fc33707db7710f29a22a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8c808e566881fc33707db7710f29a22a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\09aa474ff1334c9aed74d9032cfb061f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\09aa474ff1334c9aed74d9032cfb061f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f759322f3632fe77e98fbd8227ad3ae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f759322f3632fe77e98fbd8227ad3ae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a5059616d992f92cf39c9cee38755d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a5059616d992f92cf39c9cee38755d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\124a12f99d383d98ee2c6f62174d7b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\124a12f99d383d98ee2c6f62174d7b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\10d0d69bfceee8c3cd26b45fca205d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\10d0d69bfceee8c3cd26b45fca205d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9b1899dc4efe3665764d257634c6e278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9b1899dc4efe3665764d257634c6e278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6b989618025663fb1b68ac5828da9d68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6b989618025663fb1b68ac5828da9d68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cd24534fb7e47b4cb1d79a4a5da26183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cd24534fb7e47b4cb1d79a4a5da26183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\22f569cdc3c2acfeb5657337469ee8ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\22f569cdc3c2acfeb5657337469ee8ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\290cc6f61f872fdfbbbca7def6cc7bc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\290cc6f61f872fdfbbbca7def6cc7bc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\837667ff3cfde3bebadcff6d131ed7a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\837667ff3cfde3bebadcff6d131ed7a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8aa486e388cd9a64c2605fe4cb542713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8aa486e388cd9a64c2605fe4cb542713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ed40e8e04452d25fc01ed896046c80b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ed40e8e04452d25fc01ed896046c80b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7074ea773951ba0b28f9ea08f8fc261d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7074ea773951ba0b28f9ea08f8fc261d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\342c2fc52b0026d1933acf5aaf46842d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\342c2fc52b0026d1933acf5aaf46842d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e157f0b58171ec0c093376e422ede8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e157f0b58171ec0c093376e422ede8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dd822c62a26c3dba69ab8bb631b3c12e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dd822c62a26c3dba69ab8bb631b3c12e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\32f3414c2fe9ca2b888ec7bbfd1e3127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\32f3414c2fe9ca2b888ec7bbfd1e3127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5e84f9a3e003774833a2d2c2771ca9dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5e84f9a3e003774833a2d2c2771ca9dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\258057afb762ce94f011123848b67933\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\258057afb762ce94f011123848b67933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\04bd807fad642039753970428716edfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\04bd807fad642039753970428716edfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7ae7b766158ab8e729e58144881f8461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7ae7b766158ab8e729e58144881f8461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\930e57b1ee7889280913dc2883ef922b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\930e57b1ee7889280913dc2883ef922b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b70680a6b3212b5b6e9f6a79b8846374\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b70680a6b3212b5b6e9f6a79b8846374\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\09d38e5f7dcb76e7647fbacc5f17f0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\09d38e5f7dcb76e7647fbacc5f17f0a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1aae1491fe875dc399a345c72410bc65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1aae1491fe875dc399a345c72410bc65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\80a68022c4c5da23d7e08fc6fa2b466e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\80a68022c4c5da23d7e08fc6fa2b466e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3ebdbb898da9ede019797f7404a80c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Seen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3ebdbb898da9ede019797f7404a80c1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Seen\Desktop\StockTracker-master\app\src\main\AndroidManifest.xml
